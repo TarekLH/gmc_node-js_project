@@ -1,0 +1,16 @@
+{
+  "name": "gmc_node-js_project",
+  "version": "1.0.0",
+  "description": "gmc checkpoint ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "serve": "nodemon serve"
+  },
+  "author": "tarek lh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
