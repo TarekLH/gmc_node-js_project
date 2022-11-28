@@ -11,6 +11,8 @@
   "author": "tarek lh",
   "license": "ISC",
   "devDependencies": {
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.8.0",
     "nodemon": "^2.0.20"
   }
 }
